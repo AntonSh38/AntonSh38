@@ -80,9 +80,15 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonSh38&show_icons=true&theme=default)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=AntonSh38&show_icons=true&hide_border=true"
+  alt="GitHub Stats"
+/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSh38&layout=compact)
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSh38&layout=compact&hide_border=true"
+  alt="Top Languages"
+/>
 
 ---
 
