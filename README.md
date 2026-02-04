@@ -4,7 +4,7 @@
 
 Junior Fullstack Developer | React | Next.js | Node.js | Express | MongoDB | JavaScript | TypeScript | HTML | CSS
 
-Fullstack developer with experience in JavaScript, React, Node.js, and MongoDB.
+Fullstack developer with experience in JavaScript, React, Next.js, Node.js, Express and MongoDB.
 Experienced in creating single-page applications (SPA), integrating REST APIs, and implementing responsive and adaptive UI components.
 
 I have experience working in an Agile/Scrum environment, following best practices in:
