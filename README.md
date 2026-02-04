@@ -39,9 +39,7 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 -
 -
 -
--
-
----
+- ***
 
 ###
 
@@ -52,9 +50,7 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 -
 -
--
-
----
+- ***
 
 ## 🗣️ Languages
 
@@ -65,9 +61,9 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AntonSh38&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSh38&layout=compact)
 
 ---
 
