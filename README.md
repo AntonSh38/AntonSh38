@@ -30,37 +30,35 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 ## 💻 Featured Projects
 
-### 🎬 Filmoteka
+###
 
-🔗 https://github.com/yourusername/filmoteka
+🔗
 
-A movie search web application built with React and REST API.  
 **Features:**
 
-- movie search
-- detailed movie information
-- “Watched” & “Queue” lists
-- localStorage support
+-
+-
+-
+-
 
 ---
 
-### 🍦 IceCream Landing
+###
 
-🔗 https://github.com/yourusername/icecream-team-project
+🔗
 
-Responsive landing page developed in a team.  
-**Tech:** HTML5, JavaScript  
+**Tech:**
 **Highlights:**
 
-- responsive & adaptive layout
-- semantic HTML
-- BEM methodology
+-
+-
+-
 
 ---
 
 ## 🗣️ Languages
 
-![English](https://img.shields.io/badge/English-B2-blue?style=flat-square)
+![English](https://img.shields.io/badge/English-Elementary-blue?style=flat-square)
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 ---
