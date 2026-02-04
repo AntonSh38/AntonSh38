@@ -53,13 +53,13 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 #### ☕ Coffe Joy
 
-🔗 [GitHub](https://github.com/AntonSh38/coffe-joy)  
+🔗 [GitHub](https://github.com/AntonSh38/coffe-joy) | [Live Demo](https://den0203.github.io/coffe-joy/)
 A responsive coffee shop website with interactive UI elements and smooth animations.  
 **Tech:** HTML5, CSS3
 
 #### 🐾 The Little House of Paws
 
-🔗 [GitHub](https://github.com/AntonSh38/The-Little-House-of-Paws)  
+🔗 [GitHub](https://github.com/AntonSh38/The-Little-House-of-Paws) | [Live Demo](https://antonsh38.github.io/The-Little-House-of-Paws/)  
 Pet adoption platform with interactive UI and REST API backend.  
 **Tech:** HTML5, CSS3, JavaScript
 
@@ -69,7 +69,7 @@ Pet adoption platform with interactive UI and REST API backend.
 
 #### 💾 Spendy Expense Tracker API
 
-🔗 [GitHub](https://github.com/AntonSh38/spendy-expence-tracker-api)  
+🔗 [GitHub](https://github.com/AntonSh38/spendy-expence-tracker-api) | [Live Demo](https://spendy-expence-tracker-api.onrender.com/api-docs/)  
 REST API for an expense tracker application. Implements CRUD operations for users, wallets, and transactions.  
 **Tech:** Node.js, Express, MongoDB
 
@@ -79,19 +79,20 @@ REST API for an expense tracker application. Implements CRUD operations for user
 
 #### 💵 Web Spendy Expense Tracker
 
-🔗 [GitHub](https://github.com/AntonSh38/web-spendy-expence-tracker)  
+🔗 [GitHub](https://github.com/AntonSh38/web-spendy-expence-tracker) | [Live Demo](https://spendy-expense-tracker-web.vercel.app/login)  
 Fullstack expense tracker application with frontend and backend integration.  
 **Tech:** React, Next.js, Node.js, Express, MongoDB
 
 #### 🕊️ Leleka Website
 
-🔗 [GitHub](https://github.com/AntonSh38/leleka-website)  
+🔗 [GitHub](https://github.com/AntonSh38/leleka-website) | [Live Demo](https://leleka-website.vercel.app/)
+
 Landing page for a local business with adaptive layout and semantic HTML.  
 **Tech:** React, Next.js
 
 #### 🚚 TravelTrucks
 
-🔗 [GitHub](https://github.com/AntonSh38/TravelTrucks)  
+🔗 [GitHub](https://github.com/AntonSh38/TravelTrucks) | [Live Demo](https://travel-trucks-gules-nine.vercel.app/)  
 Website for a logistics company with responsive design and interactive map features.  
 **Tech:** React, Next.js
 
