@@ -63,6 +63,19 @@ A responsive coffee shop website with interactive UI elements and smooth animati
 Pet adoption platform with interactive UI and REST API backend.  
 **Tech:** HTML5, CSS3, JavaScript
 
+#### 🕊️ Leleka Website
+
+🔗 [GitHub](https://github.com/AntonSh38/leleka-website) | [Live Demo](https://leleka-website.vercel.app/)
+
+Landing page for a local business with adaptive layout and semantic HTML.  
+**Tech:** React, Next.js
+
+#### 🚚 TravelTrucks
+
+🔗 [GitHub](https://github.com/AntonSh38/TravelTrucks) | [Live Demo](https://travel-trucks-gules-nine.vercel.app/)  
+Website for a logistics company with responsive design and interactive map features.  
+**Tech:** React, Next.js
+
 ---
 
 ### 🧠 Backend Projects
@@ -83,18 +96,7 @@ REST API for an expense tracker application. Implements CRUD operations for user
 Fullstack expense tracker application with frontend and backend integration.  
 **Tech:** React, Next.js, Node.js, Express, MongoDB
 
-#### 🕊️ Leleka Website
-
-🔗 [GitHub](https://github.com/AntonSh38/leleka-website) | [Live Demo](https://leleka-website.vercel.app/)
-
-Landing page for a local business with adaptive layout and semantic HTML.  
-**Tech:** React, Next.js
-
-#### 🚚 TravelTrucks
-
-🔗 [GitHub](https://github.com/AntonSh38/TravelTrucks) | [Live Demo](https://travel-trucks-gules-nine.vercel.app/)  
-Website for a logistics company with responsive design and interactive map features.  
-**Tech:** React, Next.js
+---
 
 ## 🗣️ Languages
 
