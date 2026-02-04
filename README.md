@@ -1,4 +1,4 @@
-<!-- # 👋 Hi, I'm Anton Shuvalov
+# 👋 Hi, I'm Anton Shuvalov
 
 ## 👩‍💻 About Me
 
@@ -78,23 +78,17 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 GitHub Profile Trophy
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=AntonSh38&show_icons=true&hide_border=true"
-  alt="GitHub Stats"
-/>
+![trophy](https://github-profile-trophy.vercel.app/?username=AntonSh38)
 
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonSh38&layout=compact&hide_border=true"
-  alt="Top Languages"
-/>
+## 📈 Activity Graph
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=AntonSh38)
 
 ---
 
 ## 📫 How to reach me
 
 [LinkedIn](https://www.linkedin.com/in/anton-shuvalov38/)
-📧 anshuvalov83@gmail.com -->
-
-<img src="https://github-readme-stats.vercel.app/api?username=AntonSh38" />
+📧 anshuvalov83@gmail.com
