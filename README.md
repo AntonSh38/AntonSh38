@@ -80,7 +80,7 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 ## 🏆 GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AntonSh38)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AntonSh38&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📈 Activity Graph
 
