@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Anton Shuvalov
+<!-- # 👋 Hi, I'm Anton Shuvalov
 
 ## 👩‍💻 About Me
 
 Junior Fullstack Developer | React | Next.js | Node.js | Express | MongoDB | JavaScript | TypeScript | HTML | CSS
 
-Fullstack developer with experience in JavaScript, React, Node.js, and MongoDB.  
+Fullstack developer with experience in JavaScript, React, Node.js, and MongoDB.
 Experienced in creating single-page applications (SPA), integrating REST APIs, and implementing responsive and adaptive UI components.
 
 I have experience working in an Agile/Scrum environment, following best practices in:
@@ -94,5 +94,7 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 ## 📫 How to reach me
 
-[LinkedIn](https://www.linkedin.com/in/anton-shuvalov38/)  
-📧 anshuvalov83@gmail.com
+[LinkedIn](https://www.linkedin.com/in/anton-shuvalov38/)
+📧 anshuvalov83@gmail.com -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=AntonSh38" />
