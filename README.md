@@ -49,27 +49,51 @@ I’m a fast learner, problem-solver, and motivated to build scalable web soluti
 
 ## 💻 Featured Projects
 
-###
+### 🎨 Frontend Projects
 
-🔗
+#### ☕ Coffe Joy
 
-**Features:**
+🔗 [GitHub](https://github.com/AntonSh38/coffe-joy)  
+A responsive coffee shop website with interactive UI elements and smooth animations.  
+**Tech:** HTML5, CSS3
 
--
--
--
-- ***
+#### 🐾 The Little House of Paws
 
-###
+🔗 [GitHub](https://github.com/AntonSh38/The-Little-House-of-Paws)  
+Pet adoption platform with interactive UI and REST API backend.  
+**Tech:** HTML5, CSS3, JavaScript
 
-🔗
+---
 
-**Tech:**
-**Highlights:**
+### 🧠 Backend Projects
 
--
--
-- ***
+#### 💾 Spendy Expense Tracker API
+
+🔗 [GitHub](https://github.com/AntonSh38/spendy-expence-tracker-api)  
+REST API for an expense tracker application. Implements CRUD operations for users, wallets, and transactions.  
+**Tech:** Node.js, Express, MongoDB
+
+---
+
+### 🌐 Fullstack Projects
+
+#### 💵 Web Spendy Expense Tracker
+
+🔗 [GitHub](https://github.com/AntonSh38/web-spendy-expence-tracker)  
+Fullstack expense tracker application with frontend and backend integration.  
+**Tech:** React, Next.js, Node.js, Express, MongoDB
+
+#### 🕊️ Leleka Website
+
+🔗 [GitHub](https://github.com/AntonSh38/leleka-website)  
+Landing page for a local business with adaptive layout and semantic HTML.  
+**Tech:** React, Next.js
+
+#### 🚚 TravelTrucks
+
+🔗 [GitHub](https://github.com/AntonSh38/TravelTrucks)  
+Website for a logistics company with responsive design and interactive map features.  
+**Tech:** React, Next.js
 
 ## 🗣️ Languages
 
